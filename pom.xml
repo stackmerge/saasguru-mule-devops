@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fe00914c-6279-41b9-8a8d-3862f038b542</groupId>
 	<artifactId>saasguru-mule-devops-demo</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
 	<name>saasguru-mule-devops-demo</name>
 	<properties>
